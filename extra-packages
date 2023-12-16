@@ -1,5 +1,9 @@
+zsh
 bat
 fzf
+lsd
 neofetch
 neovim
 speedtest-cli
+arp-scan
+nmap
