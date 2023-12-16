@@ -1,7 +1,7 @@
 zsh
 bat
 fzf
-lsd
+#lsd       Not on Alpine??
 neofetch
 neovim
 speedtest-cli
